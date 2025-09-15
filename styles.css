@@ -95,7 +95,7 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Space Mono', monospace;
     background: linear-gradient(135deg, #05177c 0%, #4a25ee 100%);
     min-height: 100vh;
     padding: 20px;
