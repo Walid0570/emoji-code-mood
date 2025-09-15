@@ -309,9 +309,9 @@ input:focus, select:focus, textarea:focus {
     background: linear-gradient(135deg, #3ECF8E 0%, #2B7EC8 100%);
     color: white;
     border: none;
-    padding: 15px 30px;
-    border-radius: 10px;
-    font-size: 1.1em;
+    padding: 18px 36px;
+    border-radius: 12px;
+    font-size: 1.2em;
     font-weight: 600;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -1024,9 +1024,11 @@ input:focus, select:focus, textarea:focus {
     }
     
     .emoji-btn {
-        font-size: 1.5em;
-        min-height: 45px;
-        padding: 8px;
+        padding: 16px 20px;
+    border-radius: 10px;
+    font-size: 2em;
+    min-height: 56px;
+    min-width: 56px;
     }
     
     .display-section h2 {
